@@ -8,6 +8,7 @@ public class BlogWasApplication {
 
     public static void main(String[] args) {
         System.out.println("loood");
+
         SpringApplication.run(BlogWasApplication.class, args);
     }
 
