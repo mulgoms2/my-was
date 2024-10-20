@@ -1,0 +1,5 @@
+spring:
+  application:
+   name: blog-was
+server:
+  port: 8082
